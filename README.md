@@ -9,14 +9,14 @@ in-game cafe animations (idle, walk, reaction, being picked up and more).
 
 ## Demo
 
-[![Demo: pets on the desktop, the Add Pet dialog and the animation menu](docs/demo.gif)](BApet.mp4)
+[![Demo: pets on the desktop, the Add Pet dialog and the animation menu](docs/demo.gif)](https://cdn.jsdelivr.net/gh/kagdakj/BApet@main/BApet.mp4)
 
-The preview runs at 2× speed. Click it for the full 50-second video ([`BApet.mp4`](BApet.mp4)).
+The preview is sped up, Click it for the full video ([`BApet.mp4`](https://cdn.jsdelivr.net/gh/kagdakj/BApet@main/BApet.mp4)).
 (Animation lags because the video was taken whilel virtual machine was running in the background)
 
 ## Features
 
-- Real 3D rendering of the original glTF models. Skinning, facial morphs and cubic-spline
+- Real 3D rendering of the original glTF models. Skinning, facial morphs ands cubic-spline
   animation run on the GPU, with the wiki viewer's unlit look and toon outline.
 - Pets wander around the screen and turn to face the way they're walking. When they stop
   they turn back toward you.
