@@ -1,0 +1,2466 @@
+{
+ "version": 1,
+ "generated": "2026-10-28T12:05:13Z",
+ "source": "https://bluearchive.wiki/wiki/Models",
+ "characters": [
+  {
+   "name": "Airi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Airi.glb",
+     "size": 2211920,
+     "sha": "f0e5039350106f4e6030c6d4e7015d0b28d281d7"
+    },
+    {
+     "name": "Band",
+     "file": "Airi (Band).glb",
+     "size": 9081612,
+     "sha": "3d2ffb81717f23c5d839df016726a4877900aaba"
+    }
+   ]
+  },
+  {
+   "name": "Akane",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Akane.glb",
+     "size": 6099504,
+     "sha": "ca81e25f65e748fe1ebbcfc1f10d08e84dc034c0"
+    },
+    {
+     "name": "Bunny Girl",
+     "file": "Akane (Bunny Girl).glb",
+     "size": 3198168,
+     "sha": "03028243252c3346dcbbdd6d44e1beb96bcccb93"
+    },
+    {
+     "name": "School Uniform",
+     "file": "Akane (School Uniform).glb",
+     "size": 3090812,
+     "sha": "e30ac7e345c03c6f1e813d57c01ce2c91fc7fcf8"
+    }
+   ]
+  },
+  {
+   "name": "Akari",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Akari.glb",
+     "size": 4535776,
+     "sha": "213dde28926968d7b361702beb27cbbee076ab42"
+    },
+    {
+     "name": "New Year",
+     "file": "Akari (New Year).glb",
+     "size": 5894036,
+     "sha": "164eb6695cd040f23fee0de41e9159416be46796"
+    }
+   ]
+  },
+  {
+   "name": "Ako",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Ako.glb",
+     "size": 2006752,
+     "sha": "a0aae3bcd6e9518eb8fa5a671333e1189a843e50"
+    },
+    {
+     "name": "Dress",
+     "file": "Ako (Dress).glb",
+     "size": 8891300,
+     "sha": "239991fc464a16fa14c6248ef783cd58e40ee9e3"
+    }
+   ]
+  },
+  {
+   "name": "Aoba",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Aoba.glb",
+     "size": 5397244,
+     "sha": "6f9063feffcf87a61dd7ea1616be5e314dd14478"
+    }
+   ]
+  },
+  {
+   "name": "Arisu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Arisu.glb",
+     "size": 7230720,
+     "sha": "672169452d9c85530637c8ed06d2f419ce8ac5b1"
+    },
+    {
+     "name": "Battle",
+     "file": "Arisu (Battle).glb",
+     "size": 10569384,
+     "sha": "78d43cbbdf11dfecdf9c7044702376b27c8a5fac"
+    },
+    {
+     "name": "Battle / Carrier",
+     "file": "Arisu (Battle) (Carrier).glb",
+     "size": 2218380,
+     "sha": "0420395bfd5d704865f0632f48974353656c8e4b"
+    },
+    {
+     "name": "Battle / Scenario",
+     "file": "Arisu (Battle) (Scenario).glb",
+     "size": 3671440,
+     "sha": "8755fee7a00ce224452db5db38fcf29a20ea846e"
+    },
+    {
+     "name": "Maid",
+     "file": "Arisu (Maid).glb",
+     "size": 10588352,
+     "sha": "f0ba305be72b512c290640c07d7f322386c3a6ce"
+    }
+   ]
+  },
+  {
+   "name": "Aru",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Aru.glb",
+     "size": 4948276,
+     "sha": "e3b962ec708b401672651c09eb37e5e3fb15c5b0"
+    },
+    {
+     "name": "Dress",
+     "file": "Aru (Dress).glb",
+     "size": 7747780,
+     "sha": "41183337aaebfaaa34723cd9addd0a7dda3b6c6b"
+    },
+    {
+     "name": "New Year",
+     "file": "Aru (New Year).glb",
+     "size": 7450720,
+     "sha": "0258a2aa779d0bd622565ddb0a77cf7a12d84032"
+    }
+   ]
+  },
+  {
+   "name": "Asuna",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Asuna.glb",
+     "size": 6123456,
+     "sha": "118d19012d450f2f550e36b8d7e4aedc121de4b9"
+    },
+    {
+     "name": "Bunny Girl",
+     "file": "Asuna (Bunny Girl).glb",
+     "size": 4912884,
+     "sha": "d856473752159005fe0d7234a38f23dab295fd16"
+    },
+    {
+     "name": "School Uniform",
+     "file": "Asuna (School Uniform).glb",
+     "size": 8552964,
+     "sha": "62b912d9c3cd0313958f02b9c879a8e2add3048e"
+    }
+   ]
+  },
+  {
+   "name": "Atsuko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Atsuko.glb",
+     "size": 4032724,
+     "sha": "5b723c06232da3b80410d85216c57735bbd35b19"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Atsuko (Swimsuit).glb",
+     "size": 3440824,
+     "sha": "892ee57f0dfe2f9afc47e3c225b0fc249c567032"
+    }
+   ]
+  },
+  {
+   "name": "Ayane",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Ayane.glb",
+     "size": 1276816,
+     "sha": "318a8c068c63f6de5bc6bb11292fdff3926bcdbe"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Ayane (Swimsuit).glb",
+     "size": 4408032,
+     "sha": "e92d62c786adff17373d3df7f08ec8e6a96f7ccd"
+    }
+   ]
+  },
+  {
+   "name": "Azusa",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Azusa.glb",
+     "size": 6262996,
+     "sha": "824ddefdea45b387f1cd4c392fff954f8cc57265"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Azusa (Swimsuit).glb",
+     "size": 6249608,
+     "sha": "86baf8418190453d45f37a7954d6f131ae0a6797"
+    }
+   ]
+  },
+  {
+   "name": "Cherino",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Cherino.glb",
+     "size": 7703004,
+     "sha": "dea03ea75df97a2d871e3cd060fc76594eb5dd24"
+    },
+    {
+     "name": "Hot Spring",
+     "file": "Cherino (Hot Spring).glb",
+     "size": 9082664,
+     "sha": "2b2e97e79f03ec9d0796e862e8c852e0d8f952e3"
+    }
+   ]
+  },
+  {
+   "name": "Chiaki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Chiaki.glb",
+     "size": 7584632,
+     "sha": "1e82809bf23a62db8d0882b489854c3e4bf88176"
+    }
+   ]
+  },
+  {
+   "name": "Chihiro",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Chihiro.glb",
+     "size": 3373988,
+     "sha": "da2c40653dc3e0ec7f434b6e85231a4d373d0d89"
+    }
+   ]
+  },
+  {
+   "name": "Chinatsu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Chinatsu.glb",
+     "size": 1926228,
+     "sha": "172873adee1015a7974b16e2c62c4847eec3df66"
+    },
+    {
+     "name": "Hot Spring",
+     "file": "Chinatsu (Hot Spring).glb",
+     "size": 4655924,
+     "sha": "687f0bc83a18bdbf03884cb1ed7fb56ba87369d6"
+    }
+   ]
+  },
+  {
+   "name": "Chise",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Chise.glb",
+     "size": 4870200,
+     "sha": "e7fe9fb0145bfea851c4cf2986883fe2e66e855b"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Chise (Swimsuit).glb",
+     "size": 8096432,
+     "sha": "b59973f7c639fc6baa2006e2230119441d54d3ad"
+    }
+   ]
+  },
+  {
+   "name": "Eimi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Eimi.glb",
+     "size": 4993712,
+     "sha": "c3e1cc85ca9279a9aa77cdef63e4a7c8c460bfff"
+    },
+    {
+     "name": "Battle",
+     "file": "Eimi (Battle).glb",
+     "size": 9772684,
+     "sha": "491ba1a4927593a870b5c2ea8fd86cbd56d970d6"
+    },
+    {
+     "name": "Battle / Carrier",
+     "file": "Eimi (Battle) (Carrier).glb",
+     "size": 1809824,
+     "sha": "0192e3cfc4153b8599d9a2e28396482e97a28c2b"
+    },
+    {
+     "name": "Battle / Scenario",
+     "file": "Eimi (Battle) (Scenario).glb",
+     "size": 3642396,
+     "sha": "1788ef07344f98eae05b4292227120e91602f907"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Eimi (Swimsuit).glb",
+     "size": 4107472,
+     "sha": "facef5c4e8da092e774ad16ecaf2c8bba491ac2b"
+    }
+   ]
+  },
+  {
+   "name": "Eri",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Eri.glb",
+     "size": 17263456,
+     "sha": "1cabcf14ddf4bf078cbac7dc3aca0cfce2bff4dc"
+    }
+   ]
+  },
+  {
+   "name": "Erika",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Erika.glb",
+     "size": 3732904,
+     "sha": "657430216334b0f364ea3a72df66bbea12d23bb2"
+    }
+   ]
+  },
+  {
+   "name": "Fubuki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Fubuki.glb",
+     "size": 5470492,
+     "sha": "692e140acad2d019b491d1acfcbfe516685564cd"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Fubuki (Swimsuit).glb",
+     "size": 3678400,
+     "sha": "4b3f14a15b11460e6f929ee255eaba92e877f13f"
+    }
+   ]
+  },
+  {
+   "name": "Fuuka",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Fuuka.glb",
+     "size": 1888188,
+     "sha": "30900cd33da9b1c17504212f8f13c4ef5a65541a"
+    },
+    {
+     "name": "New Year",
+     "file": "Fuuka (New Year).glb",
+     "size": 3078376,
+     "sha": "caaa1d70902019e2a1258f9ca93a9c9b9d1bcead"
+    }
+   ]
+  },
+  {
+   "name": "Fuyu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Fuyu.glb",
+     "size": 10855856,
+     "sha": "013c3159fb9ca616d22553afaab6aa9677e90d27"
+    }
+   ]
+  },
+  {
+   "name": "Hanae",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hanae.glb",
+     "size": 2645944,
+     "sha": "328e9f6414640303a189d13657c219f01f1d8427"
+    },
+    {
+     "name": "Christmas",
+     "file": "Hanae (Christmas).glb",
+     "size": 3513816,
+     "sha": "ef4dae8070132e2c29e0869ec1486fedb2a2b068"
+    }
+   ]
+  },
+  {
+   "name": "Hanako",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hanako.glb",
+     "size": 2428876,
+     "sha": "8228b8e2b45eeaa3516f528f0f96ad1241128e55"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hanako (Swimsuit).glb",
+     "size": 7898752,
+     "sha": "d44cb6d2ab7d875cc2e0357123104b9b2653dccd"
+    }
+   ]
+  },
+  {
+   "name": "Hare",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hare.glb",
+     "size": 1338780,
+     "sha": "e8e9582e32486f69af236ea3ea12e278babf87a6"
+    },
+    {
+     "name": "Camping",
+     "file": "Hare (Camping).glb",
+     "size": 7717420,
+     "sha": "7ffb8a0b7e81786be7e6040aa9ba7d2d8c9e2a09"
+    }
+   ]
+  },
+  {
+   "name": "Haruka",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Haruka.glb",
+     "size": 4495104,
+     "sha": "0a851b7f0f84fd412b029b35d5e3d7a4a3e2b694"
+    },
+    {
+     "name": "Dress",
+     "file": "Haruka (Dress).glb",
+     "size": 6760264,
+     "sha": "f6c710bc5fddebe72d32021cc701962c1bb7bf53"
+    },
+    {
+     "name": "New Year",
+     "file": "Haruka (New Year).glb",
+     "size": 3489936,
+     "sha": "fa0ceda4862d4cac80ba08a482e220dad206d9d5"
+    }
+   ]
+  },
+  {
+   "name": "Haruna",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Haruna.glb",
+     "size": 5157224,
+     "sha": "72c623f997c5437cbded5d3f9c971b22bf78a768"
+    },
+    {
+     "name": "New Year",
+     "file": "Haruna (New Year).glb",
+     "size": 6657204,
+     "sha": "04d61b6dfd038c22b45b760b0a333124eb61bb8d"
+    },
+    {
+     "name": "Sportswear",
+     "file": "Haruna (Sportswear).glb",
+     "size": 5253468,
+     "sha": "a478d9bc93c4a63d8a28b6d82373c3aa32e4ddc9"
+    }
+   ]
+  },
+  {
+   "name": "Hasumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hasumi.glb",
+     "size": 4869768,
+     "sha": "9db496aaf40c9497a0d94a473c2a2a9ee32482cd"
+    },
+    {
+     "name": "Sportswear",
+     "file": "Hasumi (Sportswear).glb",
+     "size": 5153380,
+     "sha": "a067cec3f1b7628b10ce0cadbc4a756e4aac6884"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hasumi (Swimsuit).glb",
+     "size": 6475352,
+     "sha": "38efa68167439380c870f3687e33cd470c84166e"
+    }
+   ]
+  },
+  {
+   "name": "Hatsune Miku",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hatsune Miku.glb",
+     "size": 6344144,
+     "sha": "0d9dddbbd1ad791021a7787f634ae592a1a382bf"
+    }
+   ]
+  },
+  {
+   "name": "Hibiki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hibiki.glb",
+     "size": 2979848,
+     "sha": "b671095be310994c34f6686c9b945a9311787b8c"
+    },
+    {
+     "name": "Cheerleader",
+     "file": "Hibiki (Cheerleader).glb",
+     "size": 9895864,
+     "sha": "2d925eefb265d21154f0a7174c56bb0227163ccf"
+    }
+   ]
+  },
+  {
+   "name": "Hifumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hifumi.glb",
+     "size": 6141132,
+     "sha": "743685450ab67a6092359de107024a3a552af778"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hifumi (Swimsuit).glb",
+     "size": 5025248,
+     "sha": "4976a94370e1f532788f728c606e3399c785317c"
+    }
+   ]
+  },
+  {
+   "name": "Hikari",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hikari.glb",
+     "size": 7912924,
+     "sha": "afe065ed25dcf0b86f72240cb4837f107381ade4"
+    }
+   ]
+  },
+  {
+   "name": "Himari",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Himari.glb",
+     "size": 2354876,
+     "sha": "e562a3d6964b71bcd412c083064d5c221dacf66d"
+    },
+    {
+     "name": "Battle",
+     "file": "Himari (Battle).glb",
+     "size": 8128984,
+     "sha": "379cbaa453689cc41edcb6ee41e5139049cae27f"
+    }
+   ]
+  },
+  {
+   "name": "Hina",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hina.glb",
+     "size": 6712016,
+     "sha": "c27832726e73bea6ad6272002b8dfa244d147d2c"
+    },
+    {
+     "name": "Dress",
+     "file": "Hina (Dress).glb",
+     "size": 10698272,
+     "sha": "f1576e819901314cbdbfa2002848363f5adfdf10"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hina (Swimsuit).glb",
+     "size": 5805824,
+     "sha": "4c240d87a494ae866527f9aa0f5b43631bb3e33b"
+    }
+   ]
+  },
+  {
+   "name": "Hinata",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hinata.glb",
+     "size": 7200512,
+     "sha": "866037bf679d481e18b4c04d597010b76ede417e"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hinata (Swimsuit).glb",
+     "size": 4096644,
+     "sha": "e292c798b6861a732912a5de165c057e6742729c"
+    }
+   ]
+  },
+  {
+   "name": "Hiyori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hiyori.glb",
+     "size": 3162108,
+     "sha": "baa250d8133bd0cf5e0e758c9986a851814de3da"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hiyori (Swimsuit).glb",
+     "size": 7709868,
+     "sha": "89333fa028ca1039c67583eaf77949f05b51fee2"
+    }
+   ]
+  },
+  {
+   "name": "Hoshino",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Hoshino.glb",
+     "size": 5806092,
+     "sha": "0baeab5a58131e3654766d79184dde4948fca5e0"
+    },
+    {
+     "name": "Battle",
+     "file": "Hoshino (Battle).glb",
+     "size": 12494116,
+     "sha": "b6121cf72a3356ca9c2e6c626d3850ae4f1bbbfa"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Hoshino (Swimsuit).glb",
+     "size": 9687280,
+     "sha": "7a24c6ebd6e499f4d493916e4cdf6a12ef5d26bd"
+    }
+   ]
+  },
+  {
+   "name": "Ibuki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Ibuki.glb",
+     "size": 15650320,
+     "sha": "f6b215e9968d5317e57817358cdd64d8328c36fd"
+    }
+   ]
+  },
+  {
+   "name": "Ichika",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Ichika.glb",
+     "size": 8888040,
+     "sha": "a3530c78771af38fc30c2ba2633afce538a579a0"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Ichika (Swimsuit).glb",
+     "size": 3575804,
+     "sha": "bcc91a39e4100cadfa080f8a6216afdf32d5f0fb"
+    }
+   ]
+  },
+  {
+   "name": "Iori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Iori.glb",
+     "size": 6193468,
+     "sha": "c440599ad10e343d7ecd474aecaef129e12db69c"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Iori (Swimsuit).glb",
+     "size": 4854280,
+     "sha": "0ff3939c25bcbbc398a7ac772839499aa7183ba6"
+    }
+   ]
+  },
+  {
+   "name": "Iroha",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Iroha.glb",
+     "size": 10652928,
+     "sha": "f2f8e052e53a8553c1eb489692e88049b311fdd5"
+    }
+   ]
+  },
+  {
+   "name": "Izumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Izumi.glb",
+     "size": 5461400,
+     "sha": "426be494e56470de344d4504804f757284c14bc7"
+    },
+    {
+     "name": "New Year",
+     "file": "Izumi (New Year).glb",
+     "size": 4421788,
+     "sha": "c810800d51430bc50b9ad86bb699545a98c9fbf1"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Izumi (Swimsuit).glb",
+     "size": 7011116,
+     "sha": "6f095867beedaaa75e433eb8047a15dcc56fb1b1"
+    }
+   ]
+  },
+  {
+   "name": "Izuna",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Izuna.glb",
+     "size": 9659704,
+     "sha": "ed3e438ec29ced82b60570c9d463ab4231499023"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Izuna (Swimsuit).glb",
+     "size": 8622896,
+     "sha": "9fa7b9db8e60e0ad34eca2c860d1ae12266fd700"
+    }
+   ]
+  },
+  {
+   "name": "Junko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Junko.glb",
+     "size": 7651484,
+     "sha": "7dc22b218cabc695bfcd3c1fb1bb41e162e7e47e"
+    },
+    {
+     "name": "New Year",
+     "file": "Junko (New Year).glb",
+     "size": 7024864,
+     "sha": "4a1db6adda7bafb18ef21675fabfc780845442c1"
+    }
+   ]
+  },
+  {
+   "name": "Juri",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Juri.glb",
+     "size": 2247204,
+     "sha": "f301d35d59d0e3faeef40f8273f8c19f74946257"
+    },
+    {
+     "name": "Part-Timer",
+     "file": "Juri (Part-Timer).glb",
+     "size": 7238620,
+     "sha": "4af8ce3f8638b090b3d08ae4bb70f6b36efc500e"
+    }
+   ]
+  },
+  {
+   "name": "Kaede",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kaede.glb",
+     "size": 2197772,
+     "sha": "855bc39fa52bae55caf537ebb8d0d73dbd8b132f"
+    }
+   ]
+  },
+  {
+   "name": "Kaho",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kaho.glb",
+     "size": 7358372,
+     "sha": "44b1dc8999f54e4e90ce5ab3a22e457db4d00d5f"
+    }
+   ]
+  },
+  {
+   "name": "Kanna",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kanna.glb",
+     "size": 2579092,
+     "sha": "924da85d56d61d319dd2f1e128b965ce4738f8cb"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Kanna (Swimsuit).glb",
+     "size": 6739096,
+     "sha": "9afbea8a01a65c0143a95d9966b14ac8e90284cf"
+    }
+   ]
+  },
+  {
+   "name": "Kanoe",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kanoe.glb",
+     "size": 6265344,
+     "sha": "58afafc04c387121dec2a5140e678804e14703d3"
+    }
+   ]
+  },
+  {
+   "name": "Karin",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Karin.glb",
+     "size": 2461100,
+     "sha": "1290c137ed663ba8bbcda60b70f325c076c759a6"
+    },
+    {
+     "name": "Bunny Girl",
+     "file": "Karin (Bunny Girl).glb",
+     "size": 5429624,
+     "sha": "070374e7e9712fc193ea9a0e2c314d4e5bb7609f"
+    },
+    {
+     "name": "School Uniform",
+     "file": "Karin (School Uniform).glb",
+     "size": 5588496,
+     "sha": "a6b535655cff1ef3171c93f6f56bc566a17cb060"
+    }
+   ]
+  },
+  {
+   "name": "Kasumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kasumi.glb",
+     "size": 11066144,
+     "sha": "8f52883426b06d25cd549b4aa824bf1dbb75bf99"
+    }
+   ]
+  },
+  {
+   "name": "Kayoko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kayoko.glb",
+     "size": 4619948,
+     "sha": "5dbb54fc61650735ecaa153154336322904107a0"
+    },
+    {
+     "name": "Dress",
+     "file": "Kayoko (Dress).glb",
+     "size": 7137764,
+     "sha": "4d26d1e3e8a130863032546e0d9fac7417603b93"
+    },
+    {
+     "name": "New Year",
+     "file": "Kayoko (New Year).glb",
+     "size": 7624384,
+     "sha": "93c87a5f5f25d4599a85d88d985198ea0ca9218f"
+    }
+   ]
+  },
+  {
+   "name": "Kazusa",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kazusa.glb",
+     "size": 5720868,
+     "sha": "cbad7a29b193a5dd5a6c17d3933e5b153edd7430"
+    },
+    {
+     "name": "Band",
+     "file": "Kazusa (Band).glb",
+     "size": 8638072,
+     "sha": "05499795f4c8eed4cdf881f457ff69a5a8c5df48"
+    }
+   ]
+  },
+  {
+   "name": "Kei",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kei.glb",
+     "size": 9627520,
+     "sha": "993fd71f887788f5911cfdd721f5a2cfde3b20ce"
+    },
+    {
+     "name": "Carrier 2",
+     "file": "Kei (Carrier 2).glb",
+     "size": 2084736,
+     "sha": "8cc4c467e997ef8f4a437fcb0af7f9e02115285f"
+    },
+    {
+     "name": "Carrier",
+     "file": "Kei (Carrier).glb",
+     "size": 999424,
+     "sha": "63c4edc4f98a0fbf5b09df4b5c43bba64a881123"
+    },
+    {
+     "name": "Prototype",
+     "file": "Kei (Prototype).glb",
+     "size": 329972,
+     "sha": "ba704a1a78626d5ac8246301e65b7077bd345c97"
+    },
+    {
+     "name": "Scenario 1",
+     "file": "Kei (Scenario 1).glb",
+     "size": 2462816,
+     "sha": "b0b4cbaf9bffdcf45dda623fb24b9db88bec388d"
+    },
+    {
+     "name": "Scenario 2",
+     "file": "Kei (Scenario 2).glb",
+     "size": 4317768,
+     "sha": "36abc78ca291ae40c9683c240e758957cbb2adda"
+    }
+   ]
+  },
+  {
+   "name": "Kikyou",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kikyou.glb",
+     "size": 11969004,
+     "sha": "dbeb22c0db20a74ed7145ad5c27871ef47dd2670"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Kikyou (Swimsuit).glb",
+     "size": 5258080,
+     "sha": "2c17a0b533717869923fd68a88656066d814107d"
+    },
+    {
+     "name": "Swimsuit / Special",
+     "file": "Kikyou (Swimsuit) (Special).glb",
+     "size": 2891108,
+     "sha": "23cb6d7c988e27fe511836a7388627198a50501b"
+    }
+   ]
+  },
+  {
+   "name": "Kirara",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kirara.glb",
+     "size": 7478880,
+     "sha": "b0f5cfec8b36be525df479823576285ea4825d57"
+    }
+   ]
+  },
+  {
+   "name": "Kirino",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kirino.glb",
+     "size": 6115956,
+     "sha": "3515e91d17671086a38b8c8820d3e89322450891"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Kirino (Swimsuit).glb",
+     "size": 4205696,
+     "sha": "3bc851e59b1505a3d3d1ac91783a50659942be7f"
+    }
+   ]
+  },
+  {
+   "name": "Kisaki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kisaki.glb",
+     "size": 5453068,
+     "sha": "f3785648d4881266da93da93a70db9d3e48acd4e"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Kisaki (Swimsuit).glb",
+     "size": 9850124,
+     "sha": "89e931cff36f81c7806d98ef003a2a9c91043d17"
+    }
+   ]
+  },
+  {
+   "name": "Koharu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Koharu.glb",
+     "size": 5907804,
+     "sha": "09e399c8acb42f3889ce8fd62c6235877a1e0ca6"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Koharu (Swimsuit).glb",
+     "size": 10505292,
+     "sha": "fa8798dc5452a8ab0dd3291a87de74fb49c53260"
+    }
+   ]
+  },
+  {
+   "name": "Kokona",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kokona.glb",
+     "size": 5921584,
+     "sha": "2de247b6eca3674ea5323238e253c86ed6a76bc8"
+    }
+   ]
+  },
+  {
+   "name": "Konoka",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Konoka.glb",
+     "size": 8714672,
+     "sha": "61eae19ba33cfcd052bbe51dc3c442433e35ddea"
+    }
+   ]
+  },
+  {
+   "name": "Kotama",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kotama.glb",
+     "size": 4353916,
+     "sha": "c12a095745e2e3709a8f2012d454262aa8e4ca58"
+    },
+    {
+     "name": "Camping",
+     "file": "Kotama (Camping).glb",
+     "size": 8076680,
+     "sha": "2c660e48f32ddebe7cf7c760c128ef7edbc6463f"
+    }
+   ]
+  },
+  {
+   "name": "Kotori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kotori.glb",
+     "size": 5584464,
+     "sha": "9a375a17fbbe3bddb99e421bb3226ff2b1755427"
+    },
+    {
+     "name": "Cheerleader",
+     "file": "Kotori (Cheerleader).glb",
+     "size": 6790340,
+     "sha": "83c230e4887044b1f8435e16accd039378bc47be"
+    }
+   ]
+  },
+  {
+   "name": "Koyuki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Koyuki.glb",
+     "size": 6938676,
+     "sha": "8fc51ddfd02ff576ca4d1608143df190bb364904"
+    },
+    {
+     "name": "Pajama",
+     "file": "Koyuki (Pajama).glb",
+     "size": 4713800,
+     "sha": "2097611b52c04da74b5f5887a8bb73afa4076bcb"
+    }
+   ]
+  },
+  {
+   "name": "Kurumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Kurumi.glb",
+     "size": 8513620,
+     "sha": "94dc827bfbb65f713aa57ff2ac4ca3f233a7da3e"
+    }
+   ]
+  },
+  {
+   "name": "Maki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Maki.glb",
+     "size": 5259132,
+     "sha": "fa7810633aa5d089d8d0ffe22683eb7f4cc06692"
+    },
+    {
+     "name": "Camping",
+     "file": "Maki (Camping).glb",
+     "size": 5428644,
+     "sha": "3105371d7d89c2aff540625d0a67ca1d2b564690"
+    }
+   ]
+  },
+  {
+   "name": "Makoto",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Makoto.glb",
+     "size": 4580476,
+     "sha": "cb8cdaa93523e915bf720e39ce06de40d2da4b41"
+    }
+   ]
+  },
+  {
+   "name": "Mari",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mari.glb",
+     "size": 1914176,
+     "sha": "2e925371eee25f5327071dff795463e3cad69e30"
+    },
+    {
+     "name": "Idol",
+     "file": "Mari (Idol).glb",
+     "size": 7645760,
+     "sha": "526ab60034e75d82158ddd32ca9a25cdf1cff697"
+    },
+    {
+     "name": "Sportswear",
+     "file": "Mari (Sportswear).glb",
+     "size": 7750924,
+     "sha": "35c44b523847387f6a9ac3ae37ed7d6b645411a0"
+    }
+   ]
+  },
+  {
+   "name": "Marina",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Marina.glb",
+     "size": 8054188,
+     "sha": "40fc5126613cee4a4bef3414c9b516b129bf3e20"
+    },
+    {
+     "name": "Qipao",
+     "file": "Marina (Qipao).glb",
+     "size": 9089268,
+     "sha": "4856935cd7c62791adf480f9c1a4ddf0aa8cc738"
+    }
+   ]
+  },
+  {
+   "name": "Mashiro",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mashiro.glb",
+     "size": 1434672,
+     "sha": "a293ccfc2001e117c0ab99605d450a16111b6a72"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Mashiro (Swimsuit).glb",
+     "size": 2297024,
+     "sha": "c2e29f73323f53c77dc1a620944adeacc311cda7"
+    }
+   ]
+  },
+  {
+   "name": "Material Development Club Member",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Material Development Club Member.glb",
+     "size": 715260,
+     "sha": "5df98b10a886e5e56db0e09941806efc5b3155eb"
+    }
+   ]
+  },
+  {
+   "name": "Megu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Megu.glb",
+     "size": 6722560,
+     "sha": "ca6309e9c0088c2987705eadba0620b98680a2a4"
+    }
+   ]
+  },
+  {
+   "name": "Meru",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Meru.glb",
+     "size": 7975044,
+     "sha": "930cd40e1c7ae19e8ec5631dc81e509e17d35e9d"
+    }
+   ]
+  },
+  {
+   "name": "Michiru",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Michiru.glb",
+     "size": 8216680,
+     "sha": "1d5f570fd3d307481cb7dec6c4ecaf2b178b77d3"
+    },
+    {
+     "name": "Dress",
+     "file": "Michiru (Dress).glb",
+     "size": 5491016,
+     "sha": "e6e166f576b5b5d24a619afd27bd4f072bf322e1"
+    }
+   ]
+  },
+  {
+   "name": "Midori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Midori.glb",
+     "size": 3871032,
+     "sha": "5e598b6f7889a398228c5e737abf00e115d40e4f"
+    },
+    {
+     "name": "Battle",
+     "file": "Midori (Battle).glb",
+     "size": 1256696,
+     "sha": "bd012a3f60756dfbe83ddc3d43dfd8c125a02f1e"
+    },
+    {
+     "name": "Maid",
+     "file": "Midori (Maid).glb",
+     "size": 5863896,
+     "sha": "0ce9a1bef226b2a18f5b55705740e653ca41261e"
+    }
+   ]
+  },
+  {
+   "name": "Mika",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mika.glb",
+     "size": 8364828,
+     "sha": "b22882987d222a6552cee16988b86f4255c11492"
+    },
+    {
+     "name": "Cut-in",
+     "file": "Mika (Cut-in).glb",
+     "size": 1732624,
+     "sha": "ee8e8e2fedb7d4b60c3c7a815673716f957aac62"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Mika (Swimsuit).glb",
+     "size": 7097224,
+     "sha": "fc594c86e461574060c2784069b0328106da8cae"
+    }
+   ]
+  },
+  {
+   "name": "Mimori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mimori.glb",
+     "size": 6276400,
+     "sha": "0d9f10313d8c814ab017d1fa783b55f50d5b74c9"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Mimori (Swimsuit).glb",
+     "size": 2971388,
+     "sha": "923ee8ed2b02f311e627f10d8765d3e60d18718d"
+    }
+   ]
+  },
+  {
+   "name": "Mina",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mina.glb",
+     "size": 5798804,
+     "sha": "44e3ae5d23ad9d13e8abaf808d53a2fc1e00ff28"
+    }
+   ]
+  },
+  {
+   "name": "Mine",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mine.glb",
+     "size": 7997144,
+     "sha": "f919e806a3e81994710900c1abb76f92b883b92f"
+    },
+    {
+     "name": "Idol",
+     "file": "Mine (Idol).glb",
+     "size": 8238748,
+     "sha": "8bce2d93738cd196312b531658ef4ccf611f6aba"
+    }
+   ]
+  },
+  {
+   "name": "Minori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Minori.glb",
+     "size": 4891336,
+     "sha": "53b234278172a2d55cdac4938045ef4545d5a44b"
+    }
+   ]
+  },
+  {
+   "name": "Misaka Mikoto",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Misaka Mikoto.glb",
+     "size": 7856524,
+     "sha": "62fe80405f318d90c2d5a46d678abd679e2ace32"
+    }
+   ]
+  },
+  {
+   "name": "Misaki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Misaki.glb",
+     "size": 4580420,
+     "sha": "e6a9f5130c60b7086c97b77cbe7221710b2c58f3"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Misaki (Swimsuit).glb",
+     "size": 5369644,
+     "sha": "80b3f0d562be2b35461e24b7e41289142cefcf56"
+    }
+   ]
+  },
+  {
+   "name": "Miyako",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Miyako.glb",
+     "size": 6884768,
+     "sha": "fc437bdaa769a8fda9b10bee918f560edf7ce477"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Miyako (Swimsuit).glb",
+     "size": 6483640,
+     "sha": "a954d167acf1fb241ad0c3a7f74366591e1b4318"
+    }
+   ]
+  },
+  {
+   "name": "Miyo",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Miyo.glb",
+     "size": 7795652,
+     "sha": "e274209be8c771faad5fb563d6a6b6a064dd3050"
+    }
+   ]
+  },
+  {
+   "name": "Miyu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Miyu.glb",
+     "size": 6635512,
+     "sha": "4b41c9c16e680126914eaae29e2da4225bea1fb2"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Miyu (Swimsuit).glb",
+     "size": 4273632,
+     "sha": "345b477e6f77ce875db2a311f6837a1897365ced"
+    }
+   ]
+  },
+  {
+   "name": "Moe",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Moe.glb",
+     "size": 2063092,
+     "sha": "2e0a1051d86a69617dc34628119ccd073885f653"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Moe (Swimsuit).glb",
+     "size": 7424852,
+     "sha": "4417dc7f7b900b6a24347e5a54a31000844f7925"
+    }
+   ]
+  },
+  {
+   "name": "Momiji",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Momiji.glb",
+     "size": 8425892,
+     "sha": "9fe1f8d408c03a7a507214e72aa6c39ea2bc7aa4"
+    }
+   ]
+  },
+  {
+   "name": "Momoi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Momoi.glb",
+     "size": 4404924,
+     "sha": "a25ffec7165c1205a54085e6a40c5bdedde105e8"
+    },
+    {
+     "name": "Battle",
+     "file": "Momoi (Battle).glb",
+     "size": 1205444,
+     "sha": "ff1a31acd08953fdb373eb49bfe3d72129b76487"
+    },
+    {
+     "name": "Maid",
+     "file": "Momoi (Maid).glb",
+     "size": 5922432,
+     "sha": "4b63e356b5ec54410f4380a1b6b8437d5fb16f87"
+    }
+   ]
+  },
+  {
+   "name": "Mutsuki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Mutsuki.glb",
+     "size": 4292304,
+     "sha": "8f0a547eacd187846a6cfc19ab0879cafa6d5c36"
+    },
+    {
+     "name": "Dress",
+     "file": "Mutsuki (Dress).glb",
+     "size": 4793492,
+     "sha": "18fcd908db372a2c1edf623fe5cbbda1442a6289"
+    },
+    {
+     "name": "New Year",
+     "file": "Mutsuki (New Year).glb",
+     "size": 5651908,
+     "sha": "7dcaee9a4b8dc18327abadf0b762bea64d61a587"
+    }
+   ]
+  },
+  {
+   "name": "Nagisa",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Nagisa.glb",
+     "size": 2070356,
+     "sha": "9a07a0f1988dda2c628629c2193284c10be07560"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Nagisa (Swimsuit).glb",
+     "size": 4286032,
+     "sha": "d6d46f1b004b225b95f9fe6168574d6eb955a72c"
+    }
+   ]
+  },
+  {
+   "name": "Nagusa",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Nagusa.glb",
+     "size": 8280328,
+     "sha": "70a3bf5d3ca053b0ecb275c41f540feeae6f9827"
+    },
+    {
+     "name": "Cut-in",
+     "file": "Nagusa (Cut-in).glb",
+     "size": 1015040,
+     "sha": "6b81ea5aa51aba117e32d5f634df69676ec2db07"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Nagusa (Swimsuit).glb",
+     "size": 9501132,
+     "sha": "48f8858163f5110d0e1227cf54cda9685dca3fb4"
+    }
+   ]
+  },
+  {
+   "name": "Natsu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Natsu.glb",
+     "size": 4416404,
+     "sha": "3b9632fdf9fecbb5d790bf5764a1be44c8ef5f7e"
+    },
+    {
+     "name": "Band",
+     "file": "Natsu (Band).glb",
+     "size": 5669860,
+     "sha": "fef80a66f090071e912a89b8dac85ffaa830049d"
+    },
+    {
+     "name": "Band / No Weapon",
+     "file": "Natsu (Band) (No Weapon).glb",
+     "size": 3598936,
+     "sha": "710815b6e2d415ff67c55bf2bbf59559ef299f14"
+    }
+   ]
+  },
+  {
+   "name": "Neru",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Neru.glb",
+     "size": 8552428,
+     "sha": "698c92481f9b6dc84cac5f1ebcbde30e9c423d39"
+    },
+    {
+     "name": "Bunny Girl",
+     "file": "Neru (Bunny Girl).glb",
+     "size": 8892180,
+     "sha": "d0450fc851b6357b434675000e12d8e4ad7aad6d"
+    },
+    {
+     "name": "School Uniform",
+     "file": "Neru (School Uniform).glb",
+     "size": 9171132,
+     "sha": "3db52c7248ffa89bb67279dd4f4752237ad4d911"
+    }
+   ]
+  },
+  {
+   "name": "Niko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Niko.glb",
+     "size": 7022848,
+     "sha": "36f2638ece1bfea1d582af202a07a35d2e609fde"
+    }
+   ]
+  },
+  {
+   "name": "Niya",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Niya.glb",
+     "size": 4029388,
+     "sha": "18018b41559148f417c5ce13c721fa4aed86f37e"
+    }
+   ]
+  },
+  {
+   "name": "Noa",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Noa.glb",
+     "size": 6404088,
+     "sha": "6ef64c30e4153db46dff10fc1ea6521218d397f7"
+    },
+    {
+     "name": "Pajama",
+     "file": "Noa (Pajama).glb",
+     "size": 8218888,
+     "sha": "0c7cdc834f8dcfb599d0b66307b67e35843f25dd"
+    }
+   ]
+  },
+  {
+   "name": "Nodoka",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Nodoka.glb",
+     "size": 1678388,
+     "sha": "57729e793fb357dca7a87907492e4e4dd5f80c16"
+    },
+    {
+     "name": "Hot Spring",
+     "file": "Nodoka (Hot Spring).glb",
+     "size": 2589736,
+     "sha": "9e2649a2277391e9e64fc7e3b73d4a1cdac8b9f6"
+    }
+   ]
+  },
+  {
+   "name": "Nonomi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Nonomi.glb",
+     "size": 5047772,
+     "sha": "1db84788fc7867b6bd47c868194d3a56e2968eed"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Nonomi (Swimsuit).glb",
+     "size": 5074568,
+     "sha": "d5a307fb568e76fd5ca86b43b393bd707c04031b"
+    }
+   ]
+  },
+  {
+   "name": "Nozomi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Nozomi.glb",
+     "size": 6007672,
+     "sha": "788a51fadcfdd0b6859aa4bf494ddec3c70cf5f2"
+    }
+   ]
+  },
+  {
+   "name": "Otogi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Otogi.glb",
+     "size": 13654796,
+     "sha": "88bcfc8e886c61653c43783b189c55f43ac6e45c"
+    }
+   ]
+  },
+  {
+   "name": "Pina",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Pina.glb",
+     "size": 4190756,
+     "sha": "206ec29fd33abf88730054df7b8ea177cc4822d4"
+    },
+    {
+     "name": "Guide",
+     "file": "Pina (Guide).glb",
+     "size": 4283740,
+     "sha": "9786d7c81270156ae2975f9aa4bfc6971e0d0c7a"
+    }
+   ]
+  },
+  {
+   "name": "Rabu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Rabu.glb",
+     "size": 8464072,
+     "sha": "b0f01575ee0ae0bc436b5387c8c5e37929c7cd73"
+    }
+   ]
+  },
+  {
+   "name": "Rei",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Rei.glb",
+     "size": 8390544,
+     "sha": "3ff442a027b8ae9621abd346d54981e7196efb0c"
+    }
+   ]
+  },
+  {
+   "name": "Reijo",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Reijo.glb",
+     "size": 6710628,
+     "sha": "2684b61bec344d51cdf3209cfd4412de736c7554"
+    }
+   ]
+  },
+  {
+   "name": "Reisa",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Reisa.glb",
+     "size": 5806536,
+     "sha": "1d3a597178e69d53dc4cf024bfddb7c7ce06045e"
+    },
+    {
+     "name": "Magical",
+     "file": "Reisa (Magical).glb",
+     "size": 4598280,
+     "sha": "ed1d2d8933e5b34c18faaa625fd231a95b0c0ccb"
+    },
+    {
+     "name": "Magical / Special",
+     "file": "Reisa (Magical) (Special).glb",
+     "size": 3518816,
+     "sha": "22c567d5f1b7b2107553b35381fed47bdfc09590"
+    }
+   ]
+  },
+  {
+   "name": "Rena",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Rena.glb",
+     "size": 10056152,
+     "sha": "34967f49ccf98cf0b6e1c9503fc92b50ba77118c"
+    }
+   ]
+  },
+  {
+   "name": "Renge",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Renge.glb",
+     "size": 9463452,
+     "sha": "dabe1e61764f5e9e2fa08cdfe5edde13132ef574"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Renge (Swimsuit).glb",
+     "size": 7529704,
+     "sha": "746d19945384d20e45478995d547c65fa35eef0c"
+    }
+   ]
+  },
+  {
+   "name": "Rio",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Rio.glb",
+     "size": 2894536,
+     "sha": "65623e9d03241ab087138fe2eea3651d45792ef5"
+    },
+    {
+     "name": "Battle",
+     "file": "Rio (Battle).glb",
+     "size": 5238192,
+     "sha": "ace9c23b992e106b0bc1029f61e420eb44cd3637"
+    },
+    {
+     "name": "Battle / Scenario",
+     "file": "Rio (Battle) (Scenario).glb",
+     "size": 1863996,
+     "sha": "40e00f2af467099e78160037a8b4f69151ba84d0"
+    }
+   ]
+  },
+  {
+   "name": "Ritsu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Ritsu.glb",
+     "size": 5152744,
+     "sha": "ad88c021c4e7d9312c97f5739034a2c83fb84a55"
+    }
+   ]
+  },
+  {
+   "name": "Rumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Rumi.glb",
+     "size": 7077524,
+     "sha": "bc55d82bb39098f70c03c243d94fdd2c6d39c822"
+    }
+   ]
+  },
+  {
+   "name": "Saki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Saki.glb",
+     "size": 3669176,
+     "sha": "a09dfe70ce28e976c9df3c356834e045c35c28f7"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Saki (Swimsuit).glb",
+     "size": 9150248,
+     "sha": "00d78139bd65950248d5595067488fa9fe343c03"
+    }
+   ]
+  },
+  {
+   "name": "Sakurako",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Sakurako.glb",
+     "size": 7030664,
+     "sha": "fd737f7f4cbaec61ec858d1b31b2b8b9b16f509a"
+    },
+    {
+     "name": "Idol",
+     "file": "Sakurako (Idol).glb",
+     "size": 8551240,
+     "sha": "58b4f55cc69d94dc57de741040026e13486e1eac"
+    }
+   ]
+  },
+  {
+   "name": "Saori",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Saori.glb",
+     "size": 6677860,
+     "sha": "fbd9d1128959e0112b0c77e121d77d5861e9d65a"
+    },
+    {
+     "name": "Dress",
+     "file": "Saori (Dress).glb",
+     "size": 6292972,
+     "sha": "2ef03185bab492a6db2217562781b87c2aa28687"
+    },
+    {
+     "name": "Dress / Cafe",
+     "file": "Saori (Dress) (Cafe).glb",
+     "size": 1956628,
+     "sha": "f849e4713b51b0e378dd3919f95ea20acd3731cf"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Saori (Swimsuit).glb",
+     "size": 8296124,
+     "sha": "75686938bdd0f0c7d37a47e96e098318fc2b7e04"
+    }
+   ]
+  },
+  {
+   "name": "Saten Ruiko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Saten Ruiko.glb",
+     "size": 2078468,
+     "sha": "1dd01be77caf9509d2bd1111ff58a64fa0542265"
+    }
+   ]
+  },
+  {
+   "name": "Satsuki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Satsuki.glb",
+     "size": 4342948,
+     "sha": "b38a2eb03c298f5462951101c2245592e6f7b572"
+    }
+   ]
+  },
+  {
+   "name": "Saya",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Saya.glb",
+     "size": 2581880,
+     "sha": "6587b6687704549e6907806edfe483763e6ff564"
+    },
+    {
+     "name": "Casual",
+     "file": "Saya (Casual).glb",
+     "size": 3169544,
+     "sha": "cf018e5d87f4a7e0d2f54d4836f84a1330d1a40f"
+    }
+   ]
+  },
+  {
+   "name": "Seia",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Seia.glb",
+     "size": 9486584,
+     "sha": "1a870e27803428f88ee8d7d7001c61aaf1f62148"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Seia (Swimsuit).glb",
+     "size": 7093788,
+     "sha": "eb9a7034a3429fbeaa8cef7fb1e701f03f3f6439"
+    }
+   ]
+  },
+  {
+   "name": "Sena",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Sena.glb",
+     "size": 4542020,
+     "sha": "f4be1ac133135216053950c3a5951a5232d8eefd"
+    },
+    {
+     "name": "Casual",
+     "file": "Sena (Casual).glb",
+     "size": 8689592,
+     "sha": "b882ea84979f7efbfc9cc3727182e0d6759e87ad"
+    }
+   ]
+  },
+  {
+   "name": "Serika",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Serika.glb",
+     "size": 4199004,
+     "sha": "abf1ff0b07ce8e24f77f090312fd8727817a7b93"
+    },
+    {
+     "name": "New Year",
+     "file": "Serika (New Year).glb",
+     "size": 3278524,
+     "sha": "8a9a9fed02b475b0f3f42d72ed3a28e2d6384b53"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Serika (Swimsuit).glb",
+     "size": 3672884,
+     "sha": "fecb456783cb7ef3b1232357ab582f6237302fe2"
+    }
+   ]
+  },
+  {
+   "name": "Serina",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Serina.glb",
+     "size": 1869200,
+     "sha": "10763e47dd9449485cfd7f95952ddb2b414feed0"
+    },
+    {
+     "name": "Christmas",
+     "file": "Serina (Christmas).glb",
+     "size": 6252052,
+     "sha": "1b6571ce3d4c2711d546903d0a6cc3db5fac08f3"
+    }
+   ]
+  },
+  {
+   "name": "Shigure",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shigure.glb",
+     "size": 6068364,
+     "sha": "3f065ba9a2ba67a56ec6ab33f31214d02cc46658"
+    },
+    {
+     "name": "Hot Spring",
+     "file": "Shigure (Hot Spring).glb",
+     "size": 4745804,
+     "sha": "f134ad54794813d35da9f9d855f586448034c547"
+    }
+   ]
+  },
+  {
+   "name": "Shimiko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shimiko.glb",
+     "size": 4559580,
+     "sha": "1281acf0dbb212883bf9095334c802496d215064"
+    }
+   ]
+  },
+  {
+   "name": "Shiroko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shiroko.glb",
+     "size": 4889640,
+     "sha": "4b4242863bf7165566dc7aea244c61ad3043308b"
+    },
+    {
+     "name": "Riding",
+     "file": "Shiroko (Riding).glb",
+     "size": 4652964,
+     "sha": "37ad1fab6333db9adc3345d316a4f9bcc50f86d0"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Shiroko (Swimsuit).glb",
+     "size": 3710408,
+     "sha": "d3aa7b58a338a09d6427bc89a06c26c886c3acbb"
+    }
+   ]
+  },
+  {
+   "name": "Shiroko＊Terror",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shiroko＊Terror.glb",
+     "size": 8962464,
+     "sha": "4b65c301a89416eea14593005a4f0c137a989db5"
+    }
+   ]
+  },
+  {
+   "name": "Shizuko",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shizuko.glb",
+     "size": 1832516,
+     "sha": "4f45dd7582ebeea5ade8ba58d4efdd0fbe483610"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Shizuko (Swimsuit).glb",
+     "size": 3111684,
+     "sha": "2ce8a3294717f778eec53cd53cacb19cc4c53768"
+    }
+   ]
+  },
+  {
+   "name": "Shokuhou Misaki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shokuhou Misaki.glb",
+     "size": 6962688,
+     "sha": "05eed630dd182ac955de19f51fec4dc1e416a6b6"
+    }
+   ]
+  },
+  {
+   "name": "Shun",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Shun.glb",
+     "size": 7337644,
+     "sha": "fdad57b529d906e7bf96509da9039ace25ddd9d7"
+    },
+    {
+     "name": "Kid",
+     "file": "Shun (Kid).glb",
+     "size": 4693696,
+     "sha": "d205b7fe92e9d690a7eb3131a38e928fea860ca7"
+    },
+    {
+     "name": "Swimsuit / 1",
+     "file": "Shun (Swimsuit) (1).glb",
+     "size": 8028288,
+     "sha": "5525a95083240cac112df5baef21b8a4459b48b8"
+    },
+    {
+     "name": "Swimsuit / 2",
+     "file": "Shun (Swimsuit) (2).glb",
+     "size": 7330592,
+     "sha": "c023d6f9ab103cc6182990771eb3cd002be507f2"
+    }
+   ]
+  },
+  {
+   "name": "Subaru",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Subaru.glb",
+     "size": 10703104,
+     "sha": "71cd3302b95198fe02b6142c11e7f3a76ba6bf2b"
+    }
+   ]
+  },
+  {
+   "name": "Sumire",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Sumire.glb",
+     "size": 4834072,
+     "sha": "bf61453a9e46656079c289fdb2e852a63d615346"
+    },
+    {
+     "name": "Part-Timer",
+     "file": "Sumire (Part-Timer).glb",
+     "size": 3968584,
+     "sha": "0f8bdbde70e057ec6d8a685e9e6b0b1c0245b6c4"
+    }
+   ]
+  },
+  {
+   "name": "Suzumi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Suzumi.glb",
+     "size": 5035416,
+     "sha": "621e814fee247ccdfb9e1eb5753779eab8a63881"
+    },
+    {
+     "name": "Magical",
+     "file": "Suzumi (Magical).glb",
+     "size": 9495824,
+     "sha": "5cf47cd2074b0ad2593e5d01312a0eaf7dc97c30"
+    }
+   ]
+  },
+  {
+   "name": "Takane",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Takane.glb",
+     "size": 10123876,
+     "sha": "d3bb1780da1c8f091ab1af3a9c51d4217a0d105d"
+    }
+   ]
+  },
+  {
+   "name": "Toki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Toki.glb",
+     "size": 14009820,
+     "sha": "6180f74fd87554a53eded7ebc845b3c948948682"
+    },
+    {
+     "name": "Battle",
+     "file": "Toki (Battle).glb",
+     "size": 11141812,
+     "sha": "4163b9781b69f2faccba400baaf8ad22b7fc89f2"
+    },
+    {
+     "name": "Battle / Scenario",
+     "file": "Toki (Battle) (Scenario).glb",
+     "size": 5000428,
+     "sha": "cb38078b482ff8ea10feb5fee409a877c9ab3ca8"
+    },
+    {
+     "name": "Bunny Girl",
+     "file": "Toki (Bunny Girl).glb",
+     "size": 10283360,
+     "sha": "c020609593912c25aefaf56b138fe7227d2db2c4"
+    },
+    {
+     "name": "Cafe",
+     "file": "Toki (Cafe).glb",
+     "size": 1724512,
+     "sha": "b0274d52bec242b692777a3f5479319374bc4842"
+    }
+   ]
+  },
+  {
+   "name": "Tomoe",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Tomoe.glb",
+     "size": 5190396,
+     "sha": "12ff4e2aa385201f3a3cd3ac7d46c462d6ed2dc9"
+    },
+    {
+     "name": "Qipao",
+     "file": "Tomoe (Qipao).glb",
+     "size": 6954324,
+     "sha": "9dfb506d4f2c963fc4b01c0e6aeb7e68de284a3b"
+    }
+   ]
+  },
+  {
+   "name": "Tsubaki",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Tsubaki.glb",
+     "size": 3658376,
+     "sha": "0d2e523830d2af5752935ebb5a77e02bda9b0a01"
+    },
+    {
+     "name": "Guide",
+     "file": "Tsubaki (Guide).glb",
+     "size": 3138332,
+     "sha": "70556a32264dabd61978b6815bd69af938ee4e2d"
+    }
+   ]
+  },
+  {
+   "name": "Tsukuyo",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Tsukuyo.glb",
+     "size": 10069972,
+     "sha": "f9458f55e1b49d443e7721eda20b23dbc6fe3724"
+    },
+    {
+     "name": "Dress",
+     "file": "Tsukuyo (Dress).glb",
+     "size": 9120584,
+     "sha": "590029f2fafc8ea3dc3330c4348fbc9efdbc8465"
+    }
+   ]
+  },
+  {
+   "name": "Tsurugi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Tsurugi.glb",
+     "size": 6360420,
+     "sha": "6799f9fe23d4c2433584e93ffd55f600186bebe5"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Tsurugi (Swimsuit).glb",
+     "size": 6858356,
+     "sha": "c3ffc237bcfa0dfbfa5da561acc1cf5ac74cfe84"
+    }
+   ]
+  },
+  {
+   "name": "Ui",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Ui.glb",
+     "size": 6524612,
+     "sha": "9b6ba68241bfeab72902821d5b173cd6b29d709d"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Ui (Swimsuit).glb",
+     "size": 9118160,
+     "sha": "89df6a6af499f57da5a9228f15fad37187e84837"
+    }
+   ]
+  },
+  {
+   "name": "Umika",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Umika.glb",
+     "size": 8337364,
+     "sha": "64a0fb4419fa4e9ec892f927bf5dc88a3c8d6c70"
+    }
+   ]
+  },
+  {
+   "name": "Utaha",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Utaha.glb",
+     "size": 1606844,
+     "sha": "5fbce43208e52674aa801fc57b4fd5bc6530002f"
+    },
+    {
+     "name": "Cheerleader",
+     "file": "Utaha (Cheerleader).glb",
+     "size": 6787972,
+     "sha": "03a3d5c1da5f4343d7c7554f82748d39d37a3b65"
+    }
+   ]
+  },
+  {
+   "name": "Wakamo",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Wakamo.glb",
+     "size": 5725588,
+     "sha": "6147154f235c21aa32db4e04aab0b2ec7cc56fd2"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Wakamo (Swimsuit).glb",
+     "size": 10185368,
+     "sha": "7126ce85c47fe17dedd361daaa061a4f139819c8"
+    }
+   ]
+  },
+  {
+   "name": "Yakumo",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Yakumo.glb",
+     "size": 4900124,
+     "sha": "43db6749b13b5236434bc1165d206d728ea4f747"
+    }
+   ]
+  },
+  {
+   "name": "Yoshimi",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Yoshimi.glb",
+     "size": 2110612,
+     "sha": "126ee92d867ea119c70ed4658ab00ef902cf46fe"
+    },
+    {
+     "name": "Band",
+     "file": "Yoshimi (Band).glb",
+     "size": 12227928,
+     "sha": "2bb9d31716c17777641587a097cb195182cffc2c"
+    }
+   ]
+  },
+  {
+   "name": "Yukari",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Yukari.glb",
+     "size": 8147860,
+     "sha": "eb8b4e092da71907d872ca959cfe3a1895f63479"
+    },
+    {
+     "name": "Swimsuit",
+     "file": "Yukari (Swimsuit).glb",
+     "size": 7369940,
+     "sha": "d798adb940cd9f8ef70439345b2f9f4fb7ac8203"
+    }
+   ]
+  },
+  {
+   "name": "Yuuka",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Yuuka.glb",
+     "size": 5083936,
+     "sha": "9cd4936e8e77e85f9e368a878a6a0be26047766c"
+    },
+    {
+     "name": "Pajama",
+     "file": "Yuuka (Pajama).glb",
+     "size": 7901488,
+     "sha": "51f5d02f26a40543796afce812acbb49e84e30b6"
+    },
+    {
+     "name": "Sportswear",
+     "file": "Yuuka (Sportswear).glb",
+     "size": 9093156,
+     "sha": "5e3bd1a67b910c7350c6b60f281973a71debefa7"
+    }
+   ]
+  },
+  {
+   "name": "Yuzu",
+   "skins": [
+    {
+     "name": "Default",
+     "file": "Yuzu.glb",
+     "size": 4927036,
+     "sha": "a40df787feb10561895bdf807d3d8f706701035b"
+    },
+    {
+     "name": "Battle",
+     "file": "Yuzu (Battle).glb",
+     "size": 4876228,
+     "sha": "5f08570903c9338e4f75f1625b1f27e1a7091304"
+    },
+    {
+     "name": "Battle / Carrier",
+     "file": "Yuzu (Battle) (Carrier).glb",
+     "size": 2214120,
+     "sha": "2029dd1ac0e5d4464f1601b2eff68bc9ecdde2f3"
+    },
+    {
+     "name": "Battle / Cut-in",
+     "file": "Yuzu (Battle) (Cut-in).glb",
+     "size": 1610016,
+     "sha": "4200b32d346917f6a466c12280f61b3e1c1dd958"
+    },
+    {
+     "name": "Maid",
+     "file": "Yuzu (Maid).glb",
+     "size": 6114528,
+     "sha": "ffda286f132a4de2a4ebd05c994ba008809e571e"
+    }
+   ]
+  }
+ ]
+}

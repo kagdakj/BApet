@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bluearchive-desktop-pet"
+dynamic = ["version"]
+description = "Animated 3D Blue Archive students wandering around your desktop"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "PySide6-Essentials>=6.5",
+    "moderngl>=5.8",
+    "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pyinstaller>=6.0"]
+
+[project.gui-scripts]
+bapet = "bapet.app:main"
+
+[tool.setuptools]
+packages = ["bapet"]
+
+[tool.setuptools.package-data]
+bapet = ["catalog.json", "assets/*"]
+
+[tool.setuptools.dynamic]
+version = { attr = "bapet.__version__" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
